@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\first_prog_with_csharp\bin\Debug\net8.0\first_prog_with_csharp.exe
+C:\Users\Admin\Documents\first_prog_with_csharp\bin\Debug\net8.0\first_prog_with_csharp.deps.json
+C:\Users\Admin\Documents\first_prog_with_csharp\bin\Debug\net8.0\first_prog_with_csharp.runtimeconfig.json
+C:\Users\Admin\Documents\first_prog_with_csharp\bin\Debug\net8.0\first_prog_with_csharp.dll
+C:\Users\Admin\Documents\first_prog_with_csharp\bin\Debug\net8.0\first_prog_with_csharp.pdb
+C:\Users\Admin\Documents\first_prog_with_csharp\obj\Debug\net8.0\first_prog_with_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\first_prog_with_csharp\obj\Debug\net8.0\first_prog_with_csharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\first_prog_with_csharp\obj\Debug\net8.0\first_prog_with_csharp.AssemblyInfo.cs
+C:\Users\Admin\Documents\first_prog_with_csharp\obj\Debug\net8.0\first_prog_with_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\first_prog_with_csharp\obj\Debug\net8.0\first_prog_with_csharp.sourcelink.json
+C:\Users\Admin\Documents\first_prog_with_csharp\obj\Debug\net8.0\first_prog_with_csharp.dll
+C:\Users\Admin\Documents\first_prog_with_csharp\obj\Debug\net8.0\refint\first_prog_with_csharp.dll
+C:\Users\Admin\Documents\first_prog_with_csharp\obj\Debug\net8.0\first_prog_with_csharp.pdb
+C:\Users\Admin\Documents\first_prog_with_csharp\obj\Debug\net8.0\first_prog_with_csharp.genruntimeconfig.cache
+C:\Users\Admin\Documents\first_prog_with_csharp\obj\Debug\net8.0\ref\first_prog_with_csharp.dll
